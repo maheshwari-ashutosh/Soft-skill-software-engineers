@@ -77,14 +77,14 @@ _(Refer to the full Table of Contents within the book for detailed chapter break
 
 ## Table of Contents
 
-1. [Mastering Self-Awareness: The Engineer's Inner Compass](1%20-%20Mastering%20Self-Awareness:%20The%20Engineer's%20Inner%20Compass.md)
+1. [Mastering Self-Awareness: The Engineer's Inner Compass](1%20-%20Mastering%20Self-Awareness%3A%20The%20Engineer's%20Inner%20Compass.md)
 2. [Emotional Intelligence (EQ) in the Tech Trenches](<2%20-%20Emotional%20Intelligence%20(EQ)%20in%20the%20Tech%20Trenches.md>)
 3. [The Articulate Engineer](3%20-%20The%20Articulate%20Engineer.md)
-4. [High-Impact Collaboration: Beyond Pair Programming](4%20-%20High-Impact%20Collaboration:%20Beyond%20Pair%20Programming.md)
+4. [High-Impact Collaboration: Beyond Pair Programming](4%20-%20High-Impact%20Collaboration%3A%20Beyond%20Pair%20Programming.md)
 5. [Running and Participating in High-Value Meetings](5%20-%20Running%20and%20Participating%20in%20High-Value%20Meetings.md)
 6. [Mastering Code Reviews as a Social and Technical Process](6%20-%20Mastering%20Code%20Reviews%20as%20a%20Social%20and%20Technical%20Process.md)
-7. [Leading Without Authority: The Art of Influence](7%20-%20Leading%20Without%20Authority:%20The%20Art%20of%20Influence.md)
-8. [Mentorship and Sponsorship: Lifting Others As You Climb](8%20-%20Mentorship%20and%20Sponsorship:%20Lifting%20Others%20As%20You%20Climb.md)
+7. [Leading Without Authority: The Art of Influence](7%20-%20Leading%20Without%20Authority%3A%20The%20Art%20of%20Influence.md)
+8. [Mentorship and Sponsorship: Lifting Others As You Climb](8%20-%20Mentorship%20and%20Sponsorship%3A%20Lifting%20Others%20As%20You%20Climb.md)
 9. [Technical Leadership in Practice](9%20-%20Technical%20Leadership%20in%20Practice.md)
 10. [Conflict Resolution for Engineers](10%20-%20Conflict%20Resolution%20for%20Engineers.md)
 11. [Negotiation Skills for Technical Decisions and Resources](11%20-%20Negotiation%20Skills%20for%20Technical%20Decisions%20and%20Resources.md)
@@ -92,9 +92,9 @@ _(Refer to the full Table of Contents within the book for detailed chapter break
 13. [Advanced Time Management and Prioritization](13%20-%20Advanced%20Time%20Management%20and%20Prioritization.md)
 14. [Continuous Learning and Adaptability](14%20-%20Continuous%20Learning%20and%20Adaptability.md)
 15. [Building Resilience and Managing Stress](15%20-%20Building%20Resilience%20and%20Managing%20Stress.md)
-16. [Career Development and Strategic Networking: Charting Your Course](16%20-%20Career%20Development%20and%20Strategic%20Networking:%20Charting%20Your%20Course.md)
+16. [Career Development and Strategic Networking: Charting Your Course](16%20-%20Career%20Development%20and%20Strategic%20Networking%3A%20Charting%20Your%20Course.md)
 17. [Integrating Soft Skills into Your Daily Engineering Workflow](17%20-%20Integrating%20Soft%20Skills%20into%20Your%20Daily%20Engineering%20Workflow.md)
-18. [The Future of Senior Engineering: Trends and Evolving Skill Needs](18%20-%20The%20Future%20of%20Senior%20Engineering:%20Trends%20and%20Evolving%20Skill%20Needs.md)
+18. [The Future of Senior Engineering: Trends and Evolving Skill Needs](18%20-%20The%20Future%20of%20Senior%20Engineering%3A%20Trends%20and%20Evolving%20Skill%20Needs.md)
 
 ### Appendices
 
